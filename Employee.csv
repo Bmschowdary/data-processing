@@ -1,8 +1,8 @@
-Company,Age,Salary,Place,Country,Gender
-TCS,20,,Chennai,India,0
-Infosys,30,,Mumbai,India,0
-TCS,35,2300,Calcutta,India,0
-Infosys,40,3000,Delhi,India,0
+Name,Company,Age,Salary,Place,Country,Gender
+Teja,TCS,20,,Chennai,India,0
+Harsha,Infosys,30,,Mumbai,India,0
+Vyshu,TCS,35,2300,Calcutta,India,0
+Hari,Infosys,40,3000,Delhi,India,0
 TCS,23,4000,Mumbai,India,0
 Infosys,,5000,Calcutta,India,0
 TCS,,6000,Chennai,India,1
